@@ -3,7 +3,7 @@ package main
 import (
 	"io"
 
-	"github.com/gruntwork-io/go-commons/logging"
+	"github.com/terraform-modules-krish/go-commons/logging"
 	"github.com/sirupsen/logrus"
 )
 

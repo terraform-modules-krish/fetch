@@ -1,10 +1,10 @@
-module github.com/gruntwork-io/fetch
+module github.com/terraform-modules-krish/fetch
 
 go 1.18
 
 require (
 	github.com/dustin/go-humanize v1.0.0
-	github.com/gruntwork-io/go-commons v0.16.1
+	github.com/terraform-modules-krish/go-commons v0.16.1
 	github.com/hashicorp/go-version v1.3.0
 	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.8.0
