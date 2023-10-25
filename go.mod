@@ -1,4 +1,4 @@
-module github.com/gruntwork-io/fetch
+module github.com/terraform-modules-krish/fetch
 
 go 1.14
 
