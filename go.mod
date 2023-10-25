@@ -1,11 +1,11 @@
-module github.com/gruntwork-io/fetch
+module github.com/terraform-modules-krish/fetch
 
 go 1.14
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dustin/go-humanize v1.0.0
-	github.com/gruntwork-io/go-commons v0.9.2
+	github.com/terraform-modules-krish/go-commons v0.9.2
 	github.com/hashicorp/go-version v1.3.0
 	github.com/konsorten/go-windows-terminal-sequences v1.0.3 // indirect
 	github.com/kr/pretty v0.2.1 // indirect
